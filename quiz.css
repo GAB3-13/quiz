@@ -1,0 +1,143 @@
+
+header{
+
+    background: black;
+    padding: 20px;
+}
+header>h1{
+    color:red;
+    text-align: center;
+    font-family: serif;
+    -webkit-text-stroke: 1px white;
+    font-size: 50px;
+    position: relative;
+    
+
+}
+img
+{
+    max-width: 100px;
+    height: auto;
+    border-radius: 180px;
+    position: absolute;
+top: 50px;
+right: 50px;;
+}
+body{
+    align-content: center;
+    background-color: gray;
+}
+#form2{
+text-align: center;
+font-weight: bold;
+}
+body{
+    text-align: center;
+}
+#q2
+{
+    display:none;
+}
+#q3
+{
+    display:none;
+}
+#q4
+{
+    display:none;
+}
+#q5
+{
+    display:none;
+}
+#q6
+{
+    display:none;
+}
+#q7
+{
+    display:none;
+}
+#q8
+{
+    display:none;
+}
+#q9
+{
+    display:none;
+}
+#q10
+{
+    display:none;
+}
+#L
+{
+    display: none;
+}
+#lol
+{
+    color: red;
+    font-size: 30px;
+    font-family:monospace;
+    -webkit-text-stroke: 1px black;
+}
+#but1
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but2
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but3
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but4
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but5
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but6
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but7
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but8
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
+ #but9
+ {
+     display:none;
+     position: relative;
+     left: 910px;
+  }
+  #but10
+{
+    display:none;
+    position: relative;
+    left: 910px;
+ }
